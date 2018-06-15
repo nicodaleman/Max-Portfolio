@@ -1,2 +1,2 @@
 # Max-Portfolio
-Max MSP patches, devices and musical instruments for teaching and performance 
+Max MSP patches, devices and musical instruments for teaching and performaning
